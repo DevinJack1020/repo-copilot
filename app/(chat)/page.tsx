@@ -1,3 +1,5 @@
+import { RepoWorkspace } from "@/components/repo-copilot/workspace";
+
 export default function Page() {
-  return null;
+  return <RepoWorkspace />;
 }
