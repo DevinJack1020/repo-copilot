@@ -18,6 +18,7 @@ const nextConfig: NextConfig = {
         ],
       }
     : {}),
+  agentRules: false,
   cacheComponents: true,
   devIndicators: false,
   env: {
